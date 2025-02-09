@@ -1,4 +1,4 @@
-module grpc-server
+module github.com/HomeBlocks/grpc-server
 
 go 1.23.6
 
